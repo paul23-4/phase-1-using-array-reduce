@@ -1,5 +1,3 @@
-const sinon = require( 'sinon' )
-
 describe('reducer', function() {
   describe('batteries', function() {
     it('should have a `totalBatteries` variable', function() {
